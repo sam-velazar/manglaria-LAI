@@ -3,7 +3,7 @@
 ## 1. Colecta de datos en campo
 - **Variables medidas:** FAPAR y LAI
 - **Instrumentos utilizados:**
-  - LAIPEN
+  - LaiPen LP 110
   - Accupar LP-80
 - **Esquemas de muestreo:**
   - Puntual
