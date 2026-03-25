@@ -34,7 +34,7 @@
 
 ## 5. Modelado
 - **Modelo:** Redes neuronales
-- **Librerías:** `tensorflow` y `keras`
+- **Librerías:** `tensorflow` y `keras3`
 - **Lenguaje:** Python 3.9
 - **Interfaz:** RStudio
 - **Complemento:** librería `terra` para análisis espaciales
