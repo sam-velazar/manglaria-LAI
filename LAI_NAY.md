@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9-yellow.svg)
 ![Conda Env](https://img.shields.io/badge/Conda-r--tensorflow-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Use](https://img.shields.io/badge/Use-Non--Commercial-red.svg)
 ![Status](https://img.shields.io/badge/Pipeline-Operational-success.svg)
 
 ---
@@ -210,4 +211,4 @@ app(
 
 
 *© 2026 **Velázquez-Salazar S. & Valderrama-Landeros L.** — Comisión Nacional para el Conocimiento y Uso de la Biodiversidad*  
-*Proyecto **ManglarIA** — NON COMERCIAL USE 
+*Proyecto **ManglarIA** — NON COMMERCIAL USE 
