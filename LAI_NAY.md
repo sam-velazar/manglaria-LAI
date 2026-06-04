@@ -8,7 +8,12 @@
 ![Status](https://img.shields.io/badge/Pipeline-Operational-success.svg)
 
 ---
+## ⚠️ Disclaimer ⚠️
 
+
+This model only works for mangrove cover in the **Marismas Nacionales Biosphere Reserve, Nayarit (Natural Protected Area)**, since the training data were collected exclusively in mangroves within this reserve and in a nearby site. Therefore, it should not be applied to other land covers or regions outside this context.
+
+---
 ##  Overview
 
 This workflow produces:
