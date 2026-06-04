@@ -209,5 +209,5 @@ app(
 | Beer–Lambert Func | LAI raster | Transfer function application | fAPAR raster |
 
 
-*© 2026 **Velázquez-Salazar S.** — Comisión Nacional para el Conocimiento y Uso de la Biodiversidad*  
+*© 2026 **Velázquez-Salazar S. & Valderrama-Landeros L.** — Comisión Nacional para el Conocimiento y Uso de la Biodiversidad*  
 *Proyecto **ManglarIA** — NON COMERCIAL USE 
