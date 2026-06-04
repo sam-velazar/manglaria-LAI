@@ -11,7 +11,7 @@
 
 ##  Overview
 
-Este flujo de trabajo deriva:
+This workflow produces:
 
 - **Leaf Area Index (LAI)** derived from PlanetScope imagery using a pre-trained neural network.  
 - **Fraction of Absorbed Photosynthetically Active Radiation (fAPAR)** estimated through the Beer–Lambert transfer function.
@@ -78,6 +78,8 @@ project/
     └── run_pipeline.R
 ```
 ## Part I – PlanetScope Preprocessing
+
+The pipeline requires as input a PlanetScope product with **8 surface reflectance bands** at **3 m spatial resolution**, ensuring that the bands are properly ordered and scaled by 10000.
 
 ```r
 library(terra)
