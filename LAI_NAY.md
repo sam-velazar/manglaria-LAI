@@ -57,14 +57,24 @@ fAPAR Raster
 
 ##  Software Requirements
 
-- **R** (tested with R 4.5.x)
-- **Main packages:**
-  - terra
-  - reticulate
-  - tensorflow
-  - keras3
-  - parallel
+Environment & Libraries
+---
+### Anaconda
+- **Anaconda** 25.5.1
 
+### Python
+- **Python** 3.9
+  - tensorflow — **2.20**
+  - keras — **3.10**
+  - numpy — **2.0**
+
+### R (tested with R 4.5.X)
+- **R** 4.5.X
+  - terra — **1.8**
+  - reticulate — **1.43**
+  - tensorflow — **2.20**
+  - keras3 — **1.4**
+  - parallel — **4.5.X**
 
 ##  Directory Structure
 
@@ -121,6 +131,7 @@ writeRaster(final_stack,"Outputs/features.tif",overwrite=TRUE)
 ## Part II – LAI Prediction
 
 Conda Environment Setup
+---
 To run the pipeline, an Anaconda environment named **r-tensorflow** with Python 3.9 and the required packages installed is needed:
 
 ```r
